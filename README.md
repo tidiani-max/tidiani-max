@@ -26,6 +26,4 @@ Technology company building digital solutions.
 
 ## Connect
 
-LinkedIn
-Portfolio
-Email
+tidianidiawara97@gmail.com
