@@ -12,16 +12,16 @@ Redis • Nginx • GitHub Actions
 
 ## Featured Projects
 
-🚀 IntaraSalesAI
+IntaraSalesAI
 AI-powered WhatsApp sales assistant.
 
-🤖 SuguAI
+SuguAI
 Conversational AI platform.
 
-⛽ FuelFinder Mali
+FuelFinder Mali
 Fuel station discovery platform.
 
-🌍 DDS-Mali
+DDS-Mali
 Technology company building digital solutions.
 
 ## Connect
