@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Cheick Tidiani Diawara 👋
 
-<!--
-**tidiani-max/tidiani-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer focused on scalable backend systems,
+AI-powered SaaS, and cloud infrastructure.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • FastAPI • Django
+TypeScript • Node.js
+PostgreSQL • Docker • AWS
+Redis • Nginx • GitHub Actions
+
+## Featured Projects
+
+🚀 IntaraSalesAI
+AI-powered WhatsApp sales assistant.
+
+🤖 SuguAI
+Conversational AI platform.
+
+⛽ FuelFinder Mali
+Fuel station discovery platform.
+
+🌍 DDS-Mali
+Technology company building digital solutions.
+
+## Connect
+
+LinkedIn
+Portfolio
+Email
