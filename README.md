@@ -26,9 +26,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Sc. in Computer Science (Cum Laude)** — Universitas Negeri Malang
+- 🎓 **B.Sc. in Computer Science (Cum Laude)** Universitas Negeri Malang
 - ☁️ **3+ years** building, deploying, and operating live production systems with Docker, CI/CD, Nginx, and AWS (`EC2`, `S3`, `RDS`)
-- 📄 **Published AI Researcher** — Causal modeling & AI alignment (*BUSINTA*, Vol. 10, No. 1, 2026)
+- 📄 **Published AI Researcher** Causal modeling & AI alignment (*BUSINTA*, Vol. 10, No. 1, 2026)
 - 🌍 **Languages:** English (Fluent / IELTS 7.5), French (Fluent), Bambara (Native), Indonesian (Working Proficiency)
 - 🚀 Open to **Remote** and **Relocation** opportunities
 
@@ -47,27 +47,27 @@
 
 ### 🚀 Featured Projects
 
-#### 🛵 [Amanship](https://github.com/tidiani-max/amanship) — Quick-Commerce & AI Grocery Delivery Platform
+#### 🛵 [Amanship](https://github.com/tidiani-max/amanship) Quick-Commerce & AI Grocery Delivery Platform
 `TypeScript` `Node.js` `React Native / Expo` `PostgreSQL` `Computer Vision` `Xendit / QRIS`
 - Full-stack quick-delivery platform featuring real-time driver & picker tracking, an AI shopping assistant (*belanja* chatbot & voice ordering), a computer-vision product expiry prediction engine, and Xendit/QRIS payment integration.
 
-#### 🎓 [SEVIMA UKT Payment Management](https://github.com/tidiani-max/sevima-ukt-payment-management) — University Tuition Billing & Payment System
+#### 🎓 [SEVIMA UKT Payment Management](https://github.com/tidiani-max/sevima-ukt-payment-management) University Tuition Billing & Payment System
 `Full-Stack` `REST API` `Relational Database` `Payment Workflows`
 - Full-stack university tuition (*UKT*) billing and payment management system handling student fee tracking, payment verification workflows, and administrative reconciliation.
 
-#### ⛽ [FuelFinder Mali](https://github.com/tidiani-max/FuelFinderMali) — Account-Free Crowdsourced Crisis Platform
+#### ⛽ [FuelFinder Mali](https://github.com/tidiani-max/FuelFinderMali) Account-Free Crowdsourced Crisis Platform
 `Python` `Django 5.2` `PostgreSQL` `Redis` `Docker` `Google Maps API`
 - Built during Mali's national fuel shortage with Redis IP rate limiting, 12-hour record expiry, phonetic + Levenshtein station matching, and a heuristic consensus validation model (achieving **98% correct verification probability** at $K=5$ with 9 independent reporters; published in a peer-reviewed research paper).
 
-#### 💬 [IntaraSalesAI](https://github.com/tidiani-max/IntaraSalesAI) — Conversational AI Sales & CRM Platform
+#### 💬 [IntaraSalesAI](https://github.com/tidiani-max/IntaraSalesAI) Conversational AI Sales & CRM Platform
 `Python` `Django REST Framework` `Next.js` `PostgreSQL` `Docker` `AWS`
 - Production WhatsApp conversational-AI sales and CRM platform serving B2B clients, complete with automated workflows, Stripe & Midtrans payment integrations, and containerized AWS deployment.
 
-#### 🎙️ [SuguAI](https://github.com/tidiani-max/SuguAi) — Multilingual AI Commerce Assistant
+#### 🎙️ [SuguAI](https://github.com/tidiani-max/SuguAi) Multilingual AI Commerce Assistant
 `Python` `FastAPI` `Next.js` `PostgreSQL` `Redis` `Speech-to-Text`
 - Voice-first WhatsApp AI commerce assistant for merchants in Mali, featuring a custom Bambara & French speech-to-text pipeline for low-resource West African languages.
 
-#### 🏗️ [Chantier360](https://github.com/tidiani-max/Chantier360) — Construction Management Platform
+#### 🏗️ [Chantier360](https://github.com/tidiani-max/Chantier360) Construction Management Platform
 `Node.js` `PostgreSQL` `Docker`
 - Enterprise construction-management platform for tracking projects, operations, and field reporting.
 
