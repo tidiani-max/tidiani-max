@@ -52,7 +52,7 @@
 `Full-Stack` `REST API` `Relational Database` `Payment Workflows`
 - Full-stack university tuition (*UKT*) billing and payment management system handling student fee tracking, payment verification workflows, and administrative reconciliation.
 
-#### ⛽ FuelFinder Mali — Account-Free Crowdsourced Crisis Platform
+#### ⛽ [FuelFinder Mali](https://github.com/tidiani-max/FuelFinderMali) — Account-Free Crowdsourced Crisis Platform
 `Python` `Django 5.2` `PostgreSQL` `Redis` `Docker` `Google Maps API`
 - Built during Mali's national fuel shortage with Redis IP rate limiting, 12-hour record expiry, phonetic + Levenshtein station matching, and a heuristic consensus validation model (achieving **98% correct verification probability** at $K=5$ with 9 independent reporters; published in a peer-reviewed research paper).
 
