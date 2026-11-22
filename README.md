@@ -46,23 +46,23 @@
 
 #### 🛵 [Amanship](https://github.com/tidiani-max/amanship) — Quick-Commerce & AI Grocery Delivery Platform
 `TypeScript` `Node.js` `React Native / Expo` `PostgreSQL` `Computer Vision` `Xendit / QRIS`
-- Full-stack quick-delivery platform featuring real-time driver & picker tracking, an AI shopping assistant (*belanja* chatbot & voice ordering), a computer-vision product expiry prediction engine, and Xendit/QRIS payment integration[cite: 4].
+- Full-stack quick-delivery platform featuring real-time driver & picker tracking, an AI shopping assistant (*belanja* chatbot & voice ordering), a computer-vision product expiry prediction engine, and Xendit/QRIS payment integration.
 
 #### ⛽ FuelFinder Mali — Account-Free Crowdsourced Crisis Platform
 `Python` `Django 5.2` `PostgreSQL` `Redis` `Google Maps API`
-- Built during Mali's national fuel shortage with Redis IP rate limiting, 12-hour record expiry, phonetic + Levenshtein station matching, and a heuristic consensus validation model (achieving **98% correct verification probability** at $K=5$ with 9 independent reporters; featured in a peer-reviewed research paper)[cite: 5].
+- Built during Mali's national fuel shortage with Redis IP rate limiting, 12-hour record expiry, phonetic + Levenshtein station matching, and a heuristic consensus validation model (achieving **98% correct verification probability** at $K=5$ with 9 independent reporters; featured in a peer-reviewed research paper).
 
 #### 💬 [IntaraSalesAI](https://github.com/tidiani-max/IntaraSalesAI) — Conversational AI Sales & CRM Platform
 `Python` `Django REST Framework` `Next.js` `PostgreSQL` `Docker` `AWS`
-- Production WhatsApp conversational-AI sales and CRM platform serving B2B clients, complete with automated workflows, Stripe & Midtrans payment integrations, and containerized AWS deployment[cite: 1, 3].
+- Production WhatsApp conversational-AI sales and CRM platform serving B2B clients, complete with automated workflows, Stripe & Midtrans payment integrations, and containerized AWS deployment.
 
 #### 🎙️ SuguAI — Multilingual AI Commerce Assistant
 `Python` `Speech-to-Text` `NLP`
-- AI-powered commerce assistant featuring a custom Bambara speech-to-text pipeline tailored for a low-resource West African language[cite: 2, 3].
+- AI-powered commerce assistant featuring a custom Bambara speech-to-text pipeline tailored for a low-resource West African language.
 
 #### 🏗️ [Chantier360](https://github.com/tidiani-max/chantier360) — Construction Management Platform
 `Node.js` `PostgreSQL` `Docker`
-- Enterprise construction-management platform for tracking projects, operations, and field reporting[cite: 3].
+- Enterprise construction-management platform for tracking projects, operations, and field reporting.
 
 ---
 
