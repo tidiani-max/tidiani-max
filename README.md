@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm Cheick Tidiani Diawara 👋</h1>
+  <h1>
+  Hi there! I'm Cheick Tidiani Diawara
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="Waving Blob" />
+</h1>
   <p>
     <strong>Backend & Cloud Software Engineer</strong> • <strong>Data & Applied AI Builder</strong>
   </p>
