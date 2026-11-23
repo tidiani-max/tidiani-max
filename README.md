@@ -30,7 +30,7 @@
 - ☁️ **3+ years** building, deploying, and operating live production systems with Docker, CI/CD, Nginx, and AWS (`EC2`, `S3`, `RDS`)
 - 📄 **Published AI Researcher** Causal modeling & AI alignment (*BUSINTA*, Vol. 10, No. 1, 2026)
 - 🌍 **Languages:** English (Fluent / IELTS 7.5), French (Fluent), Bambara (Native), Indonesian (Working Proficiency)
-- 🚀 Open to **Remote** and **Relocation** opportunities
+-  Open to **Remote** and **Relocation** opportunities
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🛵 [Amanship](https://github.com/tidiani-max/amanship) Quick-Commerce & AI Grocery Delivery Platform
 `TypeScript` `Node.js` `React Native / Expo` `PostgreSQL` `Computer Vision` `Xendit / QRIS`
